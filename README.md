@@ -1,7 +1,7 @@
 # Hacker Nights
 ## A Sublime Text Theme
 
-A deep colour scheme and UI theme for Sublime Text 2.
+A dark and high contrast colour scheme and UI theme for Sublime Text 2.
 
 ![](https://i.imgur.com/F9Q3gir.png)
 
